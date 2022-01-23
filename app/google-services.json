@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132547297523",
+    "project_id": "stoppostponing",
+    "storage_bucket": "stoppostponing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132547297523:android:afed07b782faefc411b786",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132547297523-38m2ugih716me9vsstu2oldkco8irce2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTN-QqIet68Npfhq6knGyREhBQ4PZRx5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132547297523-38m2ugih716me9vsstu2oldkco8irce2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
